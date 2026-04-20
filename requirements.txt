@@ -1,0 +1,8 @@
+torch 
+torchvision 
+pillow 
+pycocotools 
+tqdm 
+scipy 
+matplotlib 
+seaborn
