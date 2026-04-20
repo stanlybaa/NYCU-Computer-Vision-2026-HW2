@@ -1,0 +1,6 @@
+__pycache__/
+*.pth
+*.pt
+nycu-hw2-data/
+checkpoints/
+pred.json
